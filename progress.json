@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-10-05T17:16:32.802Z",
+  "items": {
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2024-08-07T20:20:27.400Z",
+      "last_pushed_at": "2024-08-07T20:20:27.400Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2024-08-07T20:23:46.511Z",
+      "last_pushed_at": "2024-08-07T20:23:46.511Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2024-08-07T20:28:23.672Z",
+      "last_pushed_at": "2024-08-07T20:28:23.672Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2024-08-07T21:31:25.293Z",
+      "last_pushed_at": "2024-08-07T21:31:25.293Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2024-08-07T21:34:39.615Z",
+      "last_pushed_at": "2024-08-07T21:34:39.615Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2024-08-07T21:38:52.609Z",
+      "last_pushed_at": "2024-08-07T21:38:52.609Z",
+      "language": "python",
+      "lines": 1
+    }
+  }
+}
