@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:16:32.802Z",
+  "generated_at": "2026-10-05T17:16:36.008Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -76,6 +76,45 @@
       "path": "problems/0023-softmax-activation-function-implementation",
       "first_solved_at": "2024-08-07T21:38:52.609Z",
       "last_pushed_at": "2024-08-07T21:38:52.609Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2024-08-08T21:42:52.915Z",
+      "last_pushed_at": "2024-08-08T21:42:52.915Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2024-08-08T21:44:25.163Z",
+      "last_pushed_at": "2024-08-08T21:44:25.163Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2024-08-08T21:46:04.472Z",
+      "last_pushed_at": "2024-08-08T21:46:04.472Z",
       "language": "python",
       "lines": 1
     }
