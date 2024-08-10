@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:16:38.015Z",
+  "generated_at": "2026-10-05T17:16:40.455Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -245,6 +245,45 @@
       "path": "problems/0038-implement-adaboost-fit-method",
       "first_solved_at": "2024-08-09T19:47:36.546Z",
       "last_pushed_at": "2024-08-09T19:47:36.546Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2024-08-10T09:29:26.452Z",
+      "last_pushed_at": "2024-08-10T09:29:26.452Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2024-08-10T09:34:35.496Z",
+      "last_pushed_at": "2024-08-10T09:34:35.496Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2024-08-10T09:36:31.156Z",
+      "last_pushed_at": "2024-08-10T09:36:31.156Z",
       "language": "python",
       "lines": 1
     }
