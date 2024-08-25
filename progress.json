@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:16:49.729Z",
+  "generated_at": "2026-10-05T17:16:52.023Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -427,6 +427,45 @@
       "path": "problems/0033-generate-random-subsets-of-a-dataset",
       "first_solved_at": "2024-08-22T05:30:16.352Z",
       "last_pushed_at": "2024-08-22T05:30:16.352Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2024-08-25T07:59:35.327Z",
+      "last_pushed_at": "2024-08-25T07:59:35.327Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2024-08-25T08:03:32.752Z",
+      "last_pushed_at": "2024-08-25T08:03:32.752Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2024-08-25T08:07:37.825Z",
+      "last_pushed_at": "2024-08-25T08:07:37.825Z",
       "language": "python",
       "lines": 1
     }
