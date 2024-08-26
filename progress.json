@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:16:52.023Z",
+  "generated_at": "2026-10-05T17:16:54.475Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -466,6 +466,45 @@
       "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
       "first_solved_at": "2024-08-25T08:07:37.825Z",
       "last_pushed_at": "2024-08-25T08:07:37.825Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2024-08-26T09:22:42.080Z",
+      "last_pushed_at": "2024-08-26T09:22:42.080Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2024-08-26T09:23:50.173Z",
+      "last_pushed_at": "2024-08-26T09:23:50.173Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2024-08-26T09:26:00.832Z",
+      "last_pushed_at": "2024-08-26T09:26:00.832Z",
       "language": "python",
       "lines": 1
     }
