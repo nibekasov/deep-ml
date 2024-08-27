@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:16:54.475Z",
+  "generated_at": "2026-10-05T17:16:56.588Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -505,6 +505,58 @@
       "path": "problems/0043-implement-ridge-regression-loss-function",
       "first_solved_at": "2024-08-26T09:26:00.832Z",
       "last_pushed_at": "2024-08-26T09:26:00.832Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2024-08-27T07:11:13.358Z",
+      "last_pushed_at": "2024-08-27T07:11:13.358Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2024-08-27T07:14:25.157Z",
+      "last_pushed_at": "2024-08-27T07:14:25.157Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2024-08-27T07:20:18.206Z",
+      "last_pushed_at": "2024-08-27T07:20:18.206Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2024-08-27T07:21:54.216Z",
+      "last_pushed_at": "2024-08-27T07:21:54.216Z",
       "language": "python",
       "lines": 1
     }

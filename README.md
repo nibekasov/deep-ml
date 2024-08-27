@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 39 problems · 0 labs · 0 math
+**43** solved · 43 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,9 +19,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-08-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-09 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-08 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2024-08-27 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2024-08-26 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2024-08-26 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-09 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-27 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-08-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-08-07 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-08-07 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -41,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-19 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-15 | [solution](problems/0017-k-means-clustering) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-27 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-19 | [solution](problems/0007-matrix-transformation) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-19 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-08-22 | [solution](problems/0041-simple-convolutional-2d-layer) |
@@ -51,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2024-08-09 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-25 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-27 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ---
 
