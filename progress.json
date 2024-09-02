@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:16:56.588Z",
+  "generated_at": "2026-10-05T17:16:59.168Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -557,6 +557,45 @@
       "path": "problems/0009-matrix-times-matrix",
       "first_solved_at": "2024-08-27T07:21:54.216Z",
       "last_pushed_at": "2024-08-27T07:21:54.216Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2024-09-02T14:10:38.798Z",
+      "last_pushed_at": "2024-09-02T14:10:38.798Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2024-09-02T20:39:50.521Z",
+      "last_pushed_at": "2024-09-02T20:39:50.521Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2024-09-02T20:42:01.505Z",
+      "last_pushed_at": "2024-09-02T20:42:01.505Z",
       "language": "python",
       "lines": 1
     }
