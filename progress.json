@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:07.725Z",
+  "generated_at": "2026-10-05T17:17:10.208Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -674,6 +674,45 @@
       "path": "problems/0103-implement-the-selu-activation-function",
       "first_solved_at": "2025-02-17T16:35:40.317Z",
       "last_pushed_at": "2025-02-17T16:35:40.317Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2025-03-01T18:15:06.649Z",
+      "last_pushed_at": "2025-03-01T18:15:06.649Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2025-03-01T18:43:07.594Z",
+      "last_pushed_at": "2025-03-01T18:43:07.594Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2025-03-01T18:53:54.476Z",
+      "last_pushed_at": "2025-03-01T18:53:54.476Z",
       "language": "python",
       "lines": 15
     }
