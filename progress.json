@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:10.208Z",
+  "generated_at": "2026-10-05T17:17:12.445Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -715,6 +715,71 @@
       "last_pushed_at": "2025-03-01T18:53:54.476Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2025-03-03T10:03:45.527Z",
+      "last_pushed_at": "2025-03-03T10:03:45.527Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:88": {
+      "kind": "problem",
+      "id": "88",
+      "title": "GPT-2 Text Generation",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/88",
+      "path": "problems/0088-gpt-2-text-generation",
+      "first_solved_at": "2025-03-03T10:31:48.251Z",
+      "last_pushed_at": "2025-03-03T10:31:48.251Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:51": {
+      "kind": "problem",
+      "id": "51",
+      "title": "Optimal String Alignment Distance",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/51",
+      "path": "problems/0051-optimal-string-alignment-distance",
+      "first_solved_at": "2025-03-03T11:14:33.722Z",
+      "last_pushed_at": "2025-03-03T11:14:33.722Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2025-03-03T11:32:41.886Z",
+      "last_pushed_at": "2025-03-03T11:32:41.886Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:105": {
+      "kind": "problem",
+      "id": "105",
+      "title": "Train Softmax Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/105",
+      "path": "problems/0105-train-softmax-regression-with-gradient-descent",
+      "first_solved_at": "2025-03-03T11:46:35.623Z",
+      "last_pushed_at": "2025-03-03T11:46:35.623Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
