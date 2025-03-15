@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:12.445Z",
+  "generated_at": "2026-10-05T17:17:14.549Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -780,6 +780,32 @@
       "last_pushed_at": "2025-03-03T11:46:35.623Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-03-15T12:40:54.889Z",
+      "last_pushed_at": "2025-03-15T12:40:54.889Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2025-03-15T12:53:34.108Z",
+      "last_pushed_at": "2025-03-15T12:53:34.108Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
