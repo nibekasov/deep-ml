@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:14.549Z",
+  "generated_at": "2026-10-05T17:17:16.526Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -806,6 +806,58 @@
       "last_pushed_at": "2025-03-15T12:53:34.108Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:110": {
+      "kind": "problem",
+      "id": "110",
+      "title": "Evaluate Translation Quality with METEOR Score",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/110",
+      "path": "problems/0110-evaluate-translation-quality-with-meteor-score",
+      "first_solved_at": "2025-03-16T06:34:04.851Z",
+      "last_pushed_at": "2025-03-16T06:34:04.851Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2025-03-16T06:43:16.351Z",
+      "last_pushed_at": "2025-03-16T06:43:16.351Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2025-03-16T06:51:36.840Z",
+      "last_pushed_at": "2025-03-16T06:51:36.840Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:63": {
+      "kind": "problem",
+      "id": "63",
+      "title": "Implement the Conjugate Gradient Method for Solving Linear Systems",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/63",
+      "path": "problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems",
+      "first_solved_at": "2025-03-16T12:51:54.471Z",
+      "last_pushed_at": "2025-03-16T12:51:54.471Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
