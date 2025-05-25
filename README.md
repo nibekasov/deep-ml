@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 66 problems · 0 labs · 0 math
+**68** solved · 68 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2024-08-09 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2024-08-10 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-08-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-05-25 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-09 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-02-05 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-03-15 | [solution](problems/0083-dot-product-calculator) |
@@ -44,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-02-17 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-09-02 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-15 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-05-25 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-10 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-03-16 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2024-08-22 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |

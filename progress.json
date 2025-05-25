@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:16.526Z",
+  "generated_at": "2026-10-05T17:17:18.797Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -858,6 +858,32 @@
       "last_pushed_at": "2025-03-16T12:51:54.471Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2025-05-25T12:25:15.320Z",
+      "last_pushed_at": "2025-05-25T12:25:15.320Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2025-05-25T12:28:04.277Z",
+      "last_pushed_at": "2025-05-25T12:28:04.277Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
