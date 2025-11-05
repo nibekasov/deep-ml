@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:18.797Z",
+  "generated_at": "2026-10-05T17:17:21.108Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -884,6 +884,45 @@
       "last_pushed_at": "2025-05-25T12:28:04.277Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:169": {
+      "kind": "problem",
+      "id": "169",
+      "title": "Implement AdamW Optimizer Step",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/169",
+      "path": "problems/0169-implement-adamw-optimizer-step",
+      "first_solved_at": "2025-11-05T09:18:38.118Z",
+      "last_pushed_at": "2025-11-05T09:18:38.118Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:187": {
+      "kind": "problem",
+      "id": "187",
+      "title": "Build a Simple ETL Pipeline (MLOps)",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/187",
+      "path": "problems/0187-build-a-simple-etl-pipeline-mlops",
+      "first_solved_at": "2025-11-05T09:27:37.554Z",
+      "last_pushed_at": "2025-11-05T09:27:37.554Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-11-05T09:39:57.978Z",
+      "last_pushed_at": "2025-11-05T09:39:57.978Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
