@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:17:21.108Z",
+  "generated_at": "2026-10-05T17:18:55.174Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -921,6 +921,110 @@
       "path": "problems/0112-min-max-scaling-of-feature-values",
       "first_solved_at": "2025-11-05T09:39:57.978Z",
       "last_pushed_at": "2025-11-05T09:39:57.978Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:188": {
+      "kind": "problem",
+      "id": "188",
+      "title": "Gradient Checkpointing",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/188",
+      "path": "problems/0188-gradient-checkpointing",
+      "first_solved_at": "2025-11-08T20:48:07.481Z",
+      "last_pushed_at": "2025-11-08T20:48:07.481Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:186": {
+      "kind": "problem",
+      "id": "186",
+      "title": "Gaussian Process for Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/186",
+      "path": "problems/0186-gaussian-process-for-regression",
+      "first_solved_at": "2025-11-08T21:02:20.617Z",
+      "last_pushed_at": "2025-11-08T21:02:20.617Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2025-11-08T21:07:02.390Z",
+      "last_pushed_at": "2025-11-08T21:07:02.390Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2025-11-08T21:10:17.977Z",
+      "last_pushed_at": "2025-11-08T21:10:17.977Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2025-11-08T21:12:01.399Z",
+      "last_pushed_at": "2025-11-08T21:12:01.399Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:163": {
+      "kind": "problem",
+      "id": "163",
+      "title": "Gradient Bandit Action Selection",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/163",
+      "path": "problems/0163-gradient-bandit-action-selection",
+      "first_solved_at": "2025-11-08T21:17:55.176Z",
+      "last_pushed_at": "2025-11-08T21:17:55.176Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2025-11-08T21:27:04.416Z",
+      "last_pushed_at": "2025-11-08T21:27:04.416Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2025-11-08T21:35:09.959Z",
+      "last_pushed_at": "2025-11-08T21:35:09.959Z",
       "language": "python",
       "lines": 10
     }
