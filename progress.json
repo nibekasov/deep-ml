@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:18:55.174Z",
+  "generated_at": "2026-10-05T17:18:58.768Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1027,6 +1027,71 @@
       "last_pushed_at": "2025-11-08T21:35:09.959Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:192": {
+      "kind": "problem",
+      "id": "192",
+      "title": "Implement the Huber Loss Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/192",
+      "path": "problems/0192-implement-the-huber-loss-function",
+      "first_solved_at": "2025-11-09T11:42:14.956Z",
+      "last_pushed_at": "2025-11-09T11:42:14.956Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-11-09T18:14:46.089Z",
+      "last_pushed_at": "2025-11-09T18:14:46.089Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2025-11-09T18:39:29.376Z",
+      "last_pushed_at": "2025-11-09T18:39:29.376Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:92": {
+      "kind": "problem",
+      "id": "92",
+      "title": "Linear Regression - Power Grid Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/92",
+      "path": "problems/0092-linear-regression-power-grid-optimization",
+      "first_solved_at": "2025-11-09T18:48:56.772Z",
+      "last_pushed_at": "2025-11-09T18:48:56.772Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2025-11-09T19:01:53.336Z",
+      "last_pushed_at": "2025-11-09T19:01:53.336Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
