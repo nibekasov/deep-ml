@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 84 problems · 0 labs · 0 math
+**92** solved · 92 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,9 +16,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-08-22 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2024-08-09 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2024-08-10 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-11-11 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-08-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-11-09 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-11-11 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2025-11-08 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
+| [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-11-11 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-05-25 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-11-08 | [solution](problems/0165-compute-discounted-return) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-09 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
@@ -27,10 +30,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-08 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2025-11-08 | [solution](problems/0188-gradient-checkpointing) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-02-17 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-11-11 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2024-08-27 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-11-11 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2024-08-26 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2024-08-26 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2025-02-17 | [solution](problems/0103-implement-the-selu-activation-function) |
+| [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2025-11-11 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-09 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2025-11-08 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-27 | [solution](problems/0044-leaky-relu-activation-function) |
@@ -66,7 +72,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-08-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2025-03-03 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-03-16 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-11-11 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-03-01 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-11-11 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2025-11-08 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-03-01 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2025-03-03 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |

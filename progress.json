@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:18:58.768Z",
+  "generated_at": "2026-10-05T17:19:01.761Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1092,6 +1092,110 @@
       "last_pushed_at": "2025-11-09T19:01:53.336Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2025-11-11T14:47:58.642Z",
+      "last_pushed_at": "2025-11-11T14:47:58.642Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2025-11-11T14:55:21.194Z",
+      "last_pushed_at": "2025-11-11T14:55:21.194Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2025-11-11T15:10:28.004Z",
+      "last_pushed_at": "2025-11-11T15:10:28.004Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-11-11T15:38:05.391Z",
+      "last_pushed_at": "2025-11-11T15:38:05.391Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-11-11T15:56:50.101Z",
+      "last_pushed_at": "2025-11-11T15:56:50.101Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2025-11-11T15:59:19.820Z",
+      "last_pushed_at": "2025-11-11T15:59:19.820Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2025-11-11T17:05:00.081Z",
+      "last_pushed_at": "2025-11-11T17:05:00.081Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2025-11-11T17:14:12.410Z",
+      "last_pushed_at": "2025-11-11T17:14:12.410Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
