@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:19:01.761Z",
+  "generated_at": "2026-10-05T17:19:04.343Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1196,6 +1196,58 @@
       "last_pushed_at": "2025-11-11T17:14:12.410Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2025-11-12T04:06:43.122Z",
+      "last_pushed_at": "2025-11-12T04:06:43.122Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2025-11-12T07:01:19.965Z",
+      "last_pushed_at": "2025-11-12T07:01:19.965Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:62": {
+      "kind": "problem",
+      "id": "62",
+      "title": "Implement a Simple RNN with Backpropagation Through Time (BPTT)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/62",
+      "path": "problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt",
+      "first_solved_at": "2025-11-12T07:14:45.962Z",
+      "last_pushed_at": "2025-11-12T07:14:45.962Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:164": {
+      "kind": "problem",
+      "id": "164",
+      "title": "Gambler's Problem: Value Iteration",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/164",
+      "path": "problems/0164-gambler-s-problem-value-iteration",
+      "first_solved_at": "2025-11-12T07:23:56.803Z",
+      "last_pushed_at": "2025-11-12T07:23:56.803Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
