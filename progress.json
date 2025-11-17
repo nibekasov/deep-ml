@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:19:04.343Z",
+  "generated_at": "2026-10-05T17:19:07.199Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1248,6 +1248,97 @@
       "last_pushed_at": "2025-11-12T07:23:56.803Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:203": {
+      "kind": "problem",
+      "id": "203",
+      "title": "Jensen-Shannon Divergence",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/203",
+      "path": "problems/0203-jensen-shannon-divergence",
+      "first_solved_at": "2025-11-17T15:56:03.865Z",
+      "last_pushed_at": "2025-11-17T15:56:03.865Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2025-11-17T16:04:13.539Z",
+      "last_pushed_at": "2025-11-17T16:04:13.539Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:171": {
+      "kind": "problem",
+      "id": "171",
+      "title": "Minimax Algorithm for Tic-Tac-Toe",
+      "difficulty": "medium",
+      "category": "Game Theory",
+      "url": "https://www.deep-ml.com/problems/171",
+      "path": "problems/0171-minimax-algorithm-for-tic-tac-toe",
+      "first_solved_at": "2025-11-17T17:09:51.151Z",
+      "last_pushed_at": "2025-11-17T17:09:51.151Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2025-11-17T17:44:43.816Z",
+      "last_pushed_at": "2025-11-17T17:44:43.816Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:176": {
+      "kind": "problem",
+      "id": "176",
+      "title": "Chi-square Probability Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/176",
+      "path": "problems/0176-chi-square-probability-distribution",
+      "first_solved_at": "2025-11-17T20:18:29.591Z",
+      "last_pushed_at": "2025-11-17T20:18:29.591Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:196": {
+      "kind": "problem",
+      "id": "196",
+      "title": "Warmup + Cosine Decay Schedule",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/196",
+      "path": "problems/0196-warmup-cosine-decay-schedule",
+      "first_solved_at": "2025-11-17T20:23:35.173Z",
+      "last_pushed_at": "2025-11-17T20:23:35.173Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:197": {
+      "kind": "problem",
+      "id": "197",
+      "title": "Gradient Clipping by Global Norm",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/197",
+      "path": "problems/0197-gradient-clipping-by-global-norm",
+      "first_solved_at": "2025-11-17T20:28:01.329Z",
+      "last_pushed_at": "2025-11-17T20:28:01.329Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
