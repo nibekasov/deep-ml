@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:19:07.199Z",
+  "generated_at": "2026-10-05T17:19:10.409Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1339,6 +1339,71 @@
       "last_pushed_at": "2025-11-17T20:28:01.329Z",
       "language": "python",
       "lines": 21
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2025-11-19T18:23:39.686Z",
+      "last_pushed_at": "2025-11-19T18:23:39.686Z",
+      "language": "python",
+      "lines": 52
+    },
+    "lab:3": {
+      "kind": "lab",
+      "id": "3",
+      "title": "MNIST: Design Your Own Pytorch Optimizer",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/3",
+      "path": "labs/0003-mnist-design-your-own-pytorch-optimizer",
+      "first_solved_at": "2025-11-19T18:38:16.302Z",
+      "last_pushed_at": "2025-11-19T18:38:16.302Z",
+      "language": "python",
+      "lines": 90
+    },
+    "problem:200": {
+      "kind": "problem",
+      "id": "200",
+      "title": "Implement RMSProp Optimizer",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/200",
+      "path": "problems/0200-implement-rmsprop-optimizer",
+      "first_solved_at": "2025-11-19T19:10:53.345Z",
+      "last_pushed_at": "2025-11-19T19:10:53.345Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2025-11-19T19:28:30.671Z",
+      "last_pushed_at": "2025-11-19T19:28:30.671Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2025-11-19T19:38:17.987Z",
+      "last_pushed_at": "2025-11-19T19:38:17.987Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
