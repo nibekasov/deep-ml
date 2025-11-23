@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:19:10.409Z",
+  "generated_at": "2026-10-05T17:19:13.062Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1402,6 +1402,84 @@
       "path": "problems/0151-dropout-layer",
       "first_solved_at": "2025-11-19T19:38:17.987Z",
       "last_pushed_at": "2025-11-19T19:38:17.987Z",
+      "language": "python",
+      "lines": 28
+    },
+    "lab:2": {
+      "kind": "lab",
+      "id": "2",
+      "title": "MNIST: Design-Your-Own tiny Pytorch Model",
+      "difficulty": "medium",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/2",
+      "path": "labs/0002-mnist-design-your-own-tiny-pytorch-model",
+      "first_solved_at": "2025-11-23T20:22:36.182Z",
+      "last_pushed_at": "2025-11-23T20:22:36.182Z",
+      "language": "python",
+      "lines": 45
+    },
+    "lab:1": {
+      "kind": "lab",
+      "id": "1",
+      "title": "MNIST: Pytorch DataLoader",
+      "difficulty": "medium",
+      "category": "Data Pipelines",
+      "url": "https://www.deep-ml.com/labs/1",
+      "path": "labs/0001-mnist-pytorch-dataloader",
+      "first_solved_at": "2025-11-23T20:23:30.950Z",
+      "last_pushed_at": "2025-11-23T20:23:30.950Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:213": {
+      "kind": "problem",
+      "id": "213",
+      "title": "Bayesian Inference for Beta-Binomial Model",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/213",
+      "path": "problems/0213-bayesian-inference-for-beta-binomial-model",
+      "first_solved_at": "2025-11-23T20:32:04.710Z",
+      "last_pushed_at": "2025-11-23T20:32:04.710Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:208": {
+      "kind": "problem",
+      "id": "208",
+      "title": "Flash Attention v1 - Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/208",
+      "path": "problems/0208-flash-attention-v1-forward-pass",
+      "first_solved_at": "2025-11-23T20:34:31.344Z",
+      "last_pushed_at": "2025-11-23T20:34:31.344Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:125": {
+      "kind": "problem",
+      "id": "125",
+      "title": "Implement a Sparse Mixture of Experts Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/125",
+      "path": "problems/0125-implement-a-sparse-mixture-of-experts-layer",
+      "first_solved_at": "2025-11-23T20:42:54.925Z",
+      "last_pushed_at": "2025-11-23T20:42:54.925Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:206": {
+      "kind": "problem",
+      "id": "206",
+      "title": "Variational Inference: ELBO Computation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/206",
+      "path": "problems/0206-variational-inference-elbo-computation",
+      "first_solved_at": "2025-11-23T20:57:25.772Z",
+      "last_pushed_at": "2025-11-23T20:57:25.772Z",
       "language": "python",
       "lines": 28
     }
