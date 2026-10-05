@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:26:59.421Z",
+  "generated_at": "2026-10-05T17:33:01.771Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1495,6 +1495,19 @@
       "last_pushed_at": "2026-10-05T17:26:56.663Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:750": {
+      "kind": "problem",
+      "id": "750",
+      "title": "Progressive Batch Size Scheduler",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/750",
+      "path": "problems/0750-progressive-batch-size-scheduler",
+      "first_solved_at": "2026-10-05T17:32:59.129Z",
+      "last_pushed_at": "2026-10-05T17:32:59.129Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
