@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:19:13.062Z",
+  "generated_at": "2026-10-05T17:26:59.421Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1482,6 +1482,19 @@
       "last_pushed_at": "2025-11-23T20:57:25.772Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:740": {
+      "kind": "problem",
+      "id": "740",
+      "title": "RMS-Matched Update Rescaling for Orthogonalized Optimizers",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/740",
+      "path": "problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers",
+      "first_solved_at": "2026-10-05T17:26:56.663Z",
+      "last_pushed_at": "2026-10-05T17:26:56.663Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
