@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:48:06.743Z",
+  "generated_at": "2026-10-05T17:50:46.000Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1521,6 +1521,19 @@
       "last_pushed_at": "2026-10-05T17:48:04.833Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1054": {
+      "kind": "problem",
+      "id": "1054",
+      "title": "Partition Parameters for Muon vs AdamW",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/1054",
+      "path": "problems/1054-partition-parameters-for-muon-vs-adamw",
+      "first_solved_at": "2026-10-05T17:50:44.030Z",
+      "last_pushed_at": "2026-10-05T17:50:44.030Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
