@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:33:01.771Z",
+  "generated_at": "2026-10-05T17:48:06.743Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1508,6 +1508,19 @@
       "last_pushed_at": "2026-10-05T17:32:59.129Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:990": {
+      "kind": "problem",
+      "id": "990",
+      "title": "Learning Rate Range Finder for Linear Regression",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/990",
+      "path": "problems/0990-learning-rate-range-finder-for-linear-regression",
+      "first_solved_at": "2026-10-05T17:48:04.833Z",
+      "last_pushed_at": "2026-10-05T17:48:04.833Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
