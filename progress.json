@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:18:45.650Z",
+  "generated_at": "2026-10-06T08:00:08.663Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1547,6 +1547,19 @@
       "last_pushed_at": "2026-10-06T07:18:42.991Z",
       "language": "python",
       "lines": 67
+    },
+    "problem:785": {
+      "kind": "problem",
+      "id": "785",
+      "title": "CLIP Image-Text Alignment Score Filtering",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/785",
+      "path": "problems/0785-clip-image-text-alignment-score-filtering",
+      "first_solved_at": "2026-10-06T08:00:06.381Z",
+      "last_pushed_at": "2026-10-06T08:00:06.381Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
