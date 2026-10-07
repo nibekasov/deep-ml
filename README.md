@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 116 problems · 4 labs · 1 math
+**122** solved · 117 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-03-16 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2025-02-17 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2024-08-25 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-10-07 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2025-11-12 | [solution](problems/0191-pca-color-augmentation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-03-01 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2025-11-19 | [solution](problems/0201-qr-decomposition) |

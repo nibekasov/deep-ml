@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T06:25:48.679Z",
+  "generated_at": "2026-10-07T06:56:08.256Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1571,6 +1571,19 @@
       "path": "math/0116-convolution-arithmetic-and-parameter-sharing",
       "first_solved_at": "2026-10-07T06:25:46.108Z",
       "last_pushed_at": "2026-10-07T06:25:46.108Z"
+    },
+    "problem:1395": {
+      "kind": "problem",
+      "id": "1395",
+      "title": "IoU and Mean Average Precision for Object Detection",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1395",
+      "path": "problems/1395-iou-and-mean-average-precision-for-object-detection",
+      "first_solved_at": "2026-10-07T06:56:07.743Z",
+      "last_pushed_at": "2026-10-07T06:56:07.743Z",
+      "language": "python",
+      "lines": 138
     }
   }
 }
