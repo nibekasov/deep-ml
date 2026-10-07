@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T08:00:08.663Z",
+  "generated_at": "2026-10-07T06:25:48.679Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1560,6 +1560,17 @@
       "last_pushed_at": "2026-10-06T08:00:06.381Z",
       "language": "python",
       "lines": 23
+    },
+    "math:116": {
+      "kind": "math",
+      "id": "116",
+      "title": "Convolution Arithmetic and Parameter Sharing",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/116",
+      "path": "math/0116-convolution-arithmetic-and-parameter-sharing",
+      "first_solved_at": "2026-10-07T06:25:46.108Z",
+      "last_pushed_at": "2026-10-07T06:25:46.108Z"
     }
   }
 }

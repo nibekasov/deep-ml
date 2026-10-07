@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**120** solved · 116 problems · 4 labs · 0 math
+**121** solved · 116 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -137,6 +137,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2025-11-23 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2025-11-23 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2025-11-19 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Convolution Arithmetic and Parameter Sharing](https://www.deep-ml.com/math-problems/116) | medium | 2026-10-07 | [solution](math/0116-convolution-arithmetic-and-parameter-sharing) |
 
 ---
 
