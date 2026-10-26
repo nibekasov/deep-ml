@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 117 problems · 4 labs · 1 math
+**123** solved · 118 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2025-11-23 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-02-17 | [solution](problems/0090-bm25-ranking) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2025-11-05 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
+| [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-26 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-09-02 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-15 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-11-17 | [solution](problems/0176-chi-square-probability-distribution) |
