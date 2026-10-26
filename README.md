@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 118 problems · 4 labs · 1 math
+**124** solved · 119 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2024-08-09 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-08-07 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2025-11-08 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
+| [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-10-26 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2025-11-23 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-02-17 | [solution](problems/0090-bm25-ranking) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2025-11-05 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
