@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:34:55.061Z",
+  "generated_at": "2026-10-26T09:00:34.615Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1610,6 +1610,19 @@
       "last_pushed_at": "2026-10-26T08:34:52.392Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:720": {
+      "kind": "problem",
+      "id": "720",
+      "title": "Implement a Vision Transformer (ViT) Image Encoder",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/720",
+      "path": "problems/0720-implement-a-vision-transformer-vit-image-encoder",
+      "first_solved_at": "2026-10-26T09:00:31.903Z",
+      "last_pushed_at": "2026-10-26T09:00:31.903Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }

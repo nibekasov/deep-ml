@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**124** solved · 119 problems · 4 labs · 1 math
+**125** solved · 120 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-08-21 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2025-11-08 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2025-11-17 | [solution](problems/0197-gradient-clipping-by-global-norm) |
+| [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-10-26 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-11-09 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2025-11-05 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2024-09-02 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
