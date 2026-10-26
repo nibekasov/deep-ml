@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**125** solved · 120 problems · 4 labs · 1 math
+**126** solved · 121 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partition Parameters for Muon vs AdamW](https://www.deep-ml.com/problems/1054) | easy | 2026-10-05 | [solution](problems/1054-partition-parameters-for-muon-vs-adamw) |
 | [Progressive Batch Size Scheduler](https://www.deep-ml.com/problems/750) | easy | 2026-10-05 | [solution](problems/0750-progressive-batch-size-scheduler) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2024-08-09 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-10-26 | [solution](problems/1204-relu-activation) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-08-08 | [solution](problems/0003-reshape-matrix) |
 | [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-10-05 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-08-09 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
