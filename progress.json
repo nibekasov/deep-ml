@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:03:47.432Z",
+  "generated_at": "2026-10-26T18:40:27.520Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1649,6 +1649,19 @@
       "last_pushed_at": "2026-10-26T18:03:43.366Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:1469": {
+      "kind": "problem",
+      "id": "1469",
+      "title": "CUPED: Variance Reduction with Pre-Experiment Data",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1469",
+      "path": "problems/1469-cuped-variance-reduction-with-pre-experiment-data",
+      "first_solved_at": "2026-10-26T18:40:22.861Z",
+      "last_pushed_at": "2026-10-26T18:40:22.861Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
