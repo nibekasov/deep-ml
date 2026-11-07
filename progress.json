@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:11:10.495Z",
+  "generated_at": "2026-11-07T22:15:46.322Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1675,6 +1675,19 @@
       "last_pushed_at": "2026-11-07T20:11:07.353Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:971": {
+      "kind": "problem",
+      "id": "971",
+      "title": "Triton: Row-wise Sum",
+      "difficulty": "medium",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/971",
+      "path": "problems/0971-triton-row-wise-sum",
+      "first_solved_at": "2026-11-07T22:15:43.350Z",
+      "last_pushed_at": "2026-11-07T22:15:43.350Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
