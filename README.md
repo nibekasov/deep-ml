@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**131** solved · 126 problems · 4 labs · 1 math
+**132** solved · 127 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [A NumPy Interpreter for a Tiny Tensor IR](https://www.deep-ml.com/problems/1509) | easy | 2026-11-08 | [solution](problems/1509-a-numpy-interpreter-for-a-tiny-tensor-ir) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2024-08-09 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-08-22 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2024-08-09 | [solution](problems/0036-calculate-accuracy-score) |
