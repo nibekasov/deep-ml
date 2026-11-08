@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:15:46.322Z",
+  "generated_at": "2026-11-08T10:33:09.001Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1688,6 +1688,19 @@
       "last_pushed_at": "2026-11-07T22:15:43.350Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:972": {
+      "kind": "problem",
+      "id": "972",
+      "title": "Triton: Compute Per-Row Mean and Variance",
+      "difficulty": "medium",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/972",
+      "path": "problems/0972-triton-compute-per-row-mean-and-variance",
+      "first_solved_at": "2026-11-08T10:33:06.691Z",
+      "last_pushed_at": "2026-11-08T10:33:06.691Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
