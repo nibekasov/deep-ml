@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**132** solved · 127 problems · 4 labs · 1 math
+**133** solved · 128 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -134,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2025-11-12 | [solution](problems/0191-pca-color-augmentation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-03-01 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2025-11-19 | [solution](problems/0201-qr-decomposition) |
+| [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-11-08 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-27 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2025-03-16 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
