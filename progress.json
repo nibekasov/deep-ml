@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:18:55.312Z",
+  "generated_at": "2026-11-09T09:30:12.798Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1727,6 +1727,19 @@
       "last_pushed_at": "2026-11-08T12:18:54.727Z",
       "language": "python",
       "lines": 250
+    },
+    "problem:724": {
+      "kind": "problem",
+      "id": "724",
+      "title": "Frechet Inception Distance (FID) for Image Quality Evaluation",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/724",
+      "path": "problems/0724-frechet-inception-distance-fid-for-image-quality-evaluation",
+      "first_solved_at": "2026-11-09T09:30:08.247Z",
+      "last_pushed_at": "2026-11-09T09:30:08.247Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
