@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**135** solved · 130 problems · 4 labs · 1 math
+**136** solved · 131 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-02-05 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-03-15 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-08-08 | [solution](problems/0016-feature-scaling-implementation) |
+| [First Frame Anchor Noise Injection](https://www.deep-ml.com/problems/460) | easy | 2026-11-09 | [solution](problems/0460-first-frame-anchor-noise-injection) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2025-11-08 | [solution](problems/0188-gradient-checkpointing) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-02-17 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Historical Context Compression Ratio](https://www.deep-ml.com/problems/455) | easy | 2026-10-06 | [solution](problems/0455-historical-context-compression-ratio) |
