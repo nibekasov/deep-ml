@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 137 problems · 4 labs · 1 math
+**143** solved · 138 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-09-02 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-15 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-11-17 | [solution](problems/0176-chi-square-probability-distribution) |
+| [Compute Frechet Video Distance (FVD) for Video Quality Evaluation](https://www.deep-ml.com/problems/712) | medium | 2026-11-25 | [solution](problems/0712-compute-frechet-video-distance-fvd-for-video-quality-evaluation) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-05-25 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [CUPED: Variance Reduction with Pre-Experiment Data](https://www.deep-ml.com/problems/1469) | medium | 2026-10-26 | [solution](problems/1469-cuped-variance-reduction-with-pre-experiment-data) |
 | [Cython vs Python Performance for Array Operations](https://www.deep-ml.com/problems/676) | medium | 2026-10-26 | [solution](problems/0676-cython-vs-python-performance-for-array-operations) |

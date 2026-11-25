@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:07:11.709Z",
+  "generated_at": "2026-11-25T12:19:26.363Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1844,6 +1844,19 @@
       "last_pushed_at": "2026-11-25T12:07:11.057Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:712": {
+      "kind": "problem",
+      "id": "712",
+      "title": "Compute Frechet Video Distance (FVD) for Video Quality Evaluation",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/712",
+      "path": "problems/0712-compute-frechet-video-distance-fvd-for-video-quality-evaluation",
+      "first_solved_at": "2026-11-25T12:19:25.985Z",
+      "last_pushed_at": "2026-11-25T12:19:25.985Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
