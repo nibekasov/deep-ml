@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**136** solved · 131 problems · 4 labs · 1 math
+**137** solved · 132 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Triton: Compute Per-Row Mean and Variance](https://www.deep-ml.com/problems/972) | medium | 2026-11-08 | [solution](problems/0972-triton-compute-per-row-mean-and-variance) |
 | [Triton: Row-wise Sum](https://www.deep-ml.com/problems/971) | medium | 2026-11-07 | [solution](problems/0971-triton-row-wise-sum) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2025-11-17 | [solution](problems/0196-warmup-cosine-decay-schedule) |
+| [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-11-25 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-25 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-08-26 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2025-11-23 | [solution](problems/0208-flash-attention-v1-forward-pass) |

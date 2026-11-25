@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:34:58.648Z",
+  "generated_at": "2026-11-25T09:47:29.136Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1766,6 +1766,19 @@
       "last_pushed_at": "2026-11-09T09:34:54.188Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:699": {
+      "kind": "problem",
+      "id": "699",
+      "title": "Build a VQ-VAE from Scratch",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/699",
+      "path": "problems/0699-build-a-vq-vae-from-scratch",
+      "first_solved_at": "2026-11-25T09:47:28.538Z",
+      "last_pushed_at": "2026-11-25T09:47:28.538Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
