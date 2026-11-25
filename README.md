@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**138** solved · 133 problems · 4 labs · 1 math
+**139** solved · 134 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -145,6 +145,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2025-03-16 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2025-03-03 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2025-11-23 | [solution](problems/0206-variational-inference-elbo-computation) |
+| [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-11-25 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
 
 ## Labs
 

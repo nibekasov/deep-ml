@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:45:11.330Z",
+  "generated_at": "2026-11-25T10:52:29.385Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1792,6 +1792,19 @@
       "last_pushed_at": "2026-11-25T10:45:10.724Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:704": {
+      "kind": "problem",
+      "id": "704",
+      "title": "Video Tokenizer with Spatiotemporal VQ-VAE",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/704",
+      "path": "problems/0704-video-tokenizer-with-spatiotemporal-vq-vae",
+      "first_solved_at": "2026-11-25T10:52:27.968Z",
+      "last_pushed_at": "2026-11-25T10:52:27.968Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
