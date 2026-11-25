@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:47:29.136Z",
+  "generated_at": "2026-11-25T10:45:11.330Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1779,6 +1779,19 @@
       "last_pushed_at": "2026-11-25T09:47:28.538Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:702": {
+      "kind": "problem",
+      "id": "702",
+      "title": "Vector Quantization with Straight-Through Gradients",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/702",
+      "path": "problems/0702-vector-quantization-with-straight-through-gradients",
+      "first_solved_at": "2026-11-25T10:45:10.724Z",
+      "last_pushed_at": "2026-11-25T10:45:10.724Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
