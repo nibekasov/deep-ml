@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:52:29.385Z",
+  "generated_at": "2026-11-25T10:55:19.434Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -1805,6 +1805,19 @@
       "last_pushed_at": "2026-11-25T10:52:27.968Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:718": {
+      "kind": "problem",
+      "id": "718",
+      "title": "Spatial vs. Spatiotemporal Video Tokenizer Ablation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/718",
+      "path": "problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation",
+      "first_solved_at": "2026-11-25T10:55:18.806Z",
+      "last_pushed_at": "2026-11-25T10:55:18.806Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**139** solved · 134 problems · 4 labs · 1 math
+**140** solved · 135 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -141,6 +141,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2025-11-19 | [solution](problems/0201-qr-decomposition) |
 | [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-11-08 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-08-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-11-25 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2024-08-27 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2025-03-16 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2025-03-03 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
