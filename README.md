@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 135 problems · 4 labs · 1 math
+**141** solved · 136 problems · 4 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -110,6 +110,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-08-27 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-08-19 | [solution](problems/0007-matrix-transformation) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-11-17 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
+| [Multi-term Memory Patchification for Video](https://www.deep-ml.com/problems/456) | medium | 2026-11-25 | [solution](problems/0456-multi-term-memory-patchification-for-video) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2025-11-17 | [solution](problems/0204-mutual-information) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-03-03 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-08-19 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
